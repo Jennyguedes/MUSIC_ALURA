@@ -1,16 +1,15 @@
 body{
 color: white;
 background: black;
-margin: opx;
+margin: 10px;
+font-family:"Matemasie", sans-serif;
 }
-
 header {
     border-bottom solid 2px rgb(0, 88, 88)
     padding: 20px;
     font-size:32px;
     color: rgb(0, 88, 88)
 }
-
 section{
     background: rpg(184, 156, 213);
     padding-bottom: 80px;
@@ -18,7 +17,9 @@ section{
     display:flex;
     justify-content: center;
 }
-
 .chamada-texto{
    margin-right: 5x;
+
+
+
 }
